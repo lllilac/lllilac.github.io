@@ -1,37 +1,27 @@
-## Welcome to Circle's Pages
-
-You can use the [editor on GitHub](https://github.com/lllilac/lllilac.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lllilac/lllilac.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 简历
+#### 个人信息
++ 基本信息
++ 这块可以放上你的 GitHub 地址，GitHub 上有干货的话加分的
++ 个人博客等
+#### 教育背景
++ 学校，专业
++ 主修课程
+#### IT技能
++ 编程语言：Java等（可以加上熟悉程度的描述，比如 Java 的多线程，网络等）
++ 掌握设计模式，数据结构，常用算法
++ Android 常见的开发技术的掌握（可展开）
++ 熟悉使用 Android 开发中常用的库（可展开）
++ 熟悉 Eclipse, Android Studio, 等等开发软件的使用（工具）
++ 掌握 Git/SVN 版本控制工具的使用（工具）
++ 熟悉Windows/OS X/Linux 开发环境（开发环境）
+#### 项目经历
++ 项目描述
++ 实现的功能，成果，你的工作
++ 使用的技术，主要是一些含金量高的技术
++ 个人 App 的话，放上下载链接，方便别人直接下载体验，或者商店搜索关键词
+#### 自我评价
++ 热衷技术，学习能力很强之内的
++ 写博客的习惯，善于总结等--- 
++ Android 技术描述不用太细致，一些常见的基础知识就不用写了，否则给人一种逻辑混乱的感觉
++ 注意常见的计算机英文的大小写问题，专业严谨一点总是没坏处的
++ 简历排版尽量简单，清晰一点，格式上要工整，该对齐的对齐。可以试试 Markdown写的，格式可以参考这个
