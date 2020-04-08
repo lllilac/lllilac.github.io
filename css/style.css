@@ -81,7 +81,7 @@ body {
 .nav-sidebar > .active > a:hover,
 .nav-sidebar > .active > a:focus {
     color: #fff;
-    background-color: #B0C4DE;
+    background-color: #E6E6FA;
 }
 
 /*
@@ -160,7 +160,7 @@ a:focus {
 /*-- header_top --*/
 .sidebar {
     /*background: #6ecadc;*/
-    background: #43808e;
+    background: rgb(204, 204, 247);
     top: 0px;
     padding: 2em 30px;
 }
@@ -217,7 +217,7 @@ a:focus {
 .glyphicon-tasks:before,.glyphicon-home:before, .glyphicon-print:before, .glyphicon-envelope:before, .glyphicon-picture:before {
     margin-right: 9px;
     font-size: 14px;
-    color: #6ecadc;
+    color: #68347c;
 }
 
 .details_header {
@@ -234,7 +234,7 @@ a:focus {
 }
 
 .details_header ul li a:hover {
-    color: #6ecadc;
+    color: #6d6be9;
 }
 
 .item {
@@ -248,23 +248,23 @@ a:focus {
 }
 
 .clr1 {
-    background: #6ecadc;
+    background: #70bdcc;
 }
 
 .clr2 {
-    background: #e9a820;
+    background: #f7e48f;
 }
 
 .clr3 {
-    background: #3eb991;
+    background: #67bea1;
 }
 
 .clr4 {
-    background: #40a4b9;
+    background: #72c3d3;
 }
 
 .clr5 {
-    background: #52c160;
+    background: #83d48e;
 }
 
 
